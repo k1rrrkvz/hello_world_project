@@ -12,6 +12,15 @@ print("hello world")
 
 ### Как запустить?
 
+
+# Для Linux:
 ```bash
 python3 main.py
 ```
+# Для Windows:
+```bash
+python main.py
+```
+
+
+
